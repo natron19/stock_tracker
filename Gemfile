@@ -15,6 +15,8 @@ gem 'pg'
 gem 'rails_12factor'
 gem 'devise'
 
+gem 'stock_quote'
+
 gem 'twitter-bootstrap-rails'
 
 gem 'devise-bootstrap-views'
